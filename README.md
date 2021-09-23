@@ -1,5 +1,5 @@
-# gumballs
-Gumball machine music visualizer
+# Gumballviz
+Gum ball machine music visualizer
 
 Demo: https://editor.p5js.org/samkes16/sketches/5XXyiUXIP
 
